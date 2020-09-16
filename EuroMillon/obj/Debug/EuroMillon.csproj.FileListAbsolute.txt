@@ -1,0 +1,10 @@
+C:\Users\Celia\source\repos\EuroMillon\EuroMillon\bin\Debug\EuroMillon.exe.config
+C:\Users\Celia\source\repos\EuroMillon\EuroMillon\bin\Debug\EuroMillon.exe
+C:\Users\Celia\source\repos\EuroMillon\EuroMillon\bin\Debug\EuroMillon.pdb
+C:\Users\Celia\source\repos\EuroMillon\EuroMillon\obj\Debug\EuroMillon.csprojAssemblyReference.cache
+C:\Users\Celia\source\repos\EuroMillon\EuroMillon\obj\Debug\EuroMillon.Form1.resources
+C:\Users\Celia\source\repos\EuroMillon\EuroMillon\obj\Debug\EuroMillon.Properties.Resources.resources
+C:\Users\Celia\source\repos\EuroMillon\EuroMillon\obj\Debug\EuroMillon.csproj.GenerateResource.cache
+C:\Users\Celia\source\repos\EuroMillon\EuroMillon\obj\Debug\EuroMillon.csproj.CoreCompileInputs.cache
+C:\Users\Celia\source\repos\EuroMillon\EuroMillon\obj\Debug\EuroMillon.exe
+C:\Users\Celia\source\repos\EuroMillon\EuroMillon\obj\Debug\EuroMillon.pdb
