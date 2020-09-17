@@ -8,3 +8,12 @@ C:\Users\Celia\source\repos\EuroMillon\EuroMillon\obj\Debug\EuroMillon.csproj.Ge
 C:\Users\Celia\source\repos\EuroMillon\EuroMillon\obj\Debug\EuroMillon.csproj.CoreCompileInputs.cache
 C:\Users\Celia\source\repos\EuroMillon\EuroMillon\obj\Debug\EuroMillon.exe
 C:\Users\Celia\source\repos\EuroMillon\EuroMillon\obj\Debug\EuroMillon.pdb
+C:\Users\David\Downloads\EuroMillon-master\EuroMillon\bin\Debug\EuroMillon.exe.config
+C:\Users\David\Downloads\EuroMillon-master\EuroMillon\obj\Debug\EuroMillon.exe
+C:\Users\David\Downloads\EuroMillon-master\EuroMillon\obj\Debug\EuroMillon.pdb
+C:\Users\David\Downloads\EuroMillon-master\EuroMillon\obj\Debug\EuroMillon.csprojResolveAssemblyReference.cache
+C:\Users\David\Downloads\EuroMillon-master\EuroMillon\obj\Debug\EuroMillon.Form1.resources
+C:\Users\David\Downloads\EuroMillon-master\EuroMillon\obj\Debug\EuroMillon.Properties.Resources.resources
+C:\Users\David\Downloads\EuroMillon-master\EuroMillon\obj\Debug\EuroMillon.csproj.GenerateResource.Cache
+C:\Users\David\Downloads\EuroMillon-master\EuroMillon\bin\Debug\EuroMillon.exe
+C:\Users\David\Downloads\EuroMillon-master\EuroMillon\bin\Debug\EuroMillon.pdb
