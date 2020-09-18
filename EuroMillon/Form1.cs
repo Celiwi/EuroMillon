@@ -43,6 +43,35 @@ namespace EuroMillon
                 }
             }
 
+            Array.Sort(misNumeros);
+            Array.Reverse(misNumeros);
+
+            int izq = 0, der = misNumeros.Length -1, mitad = der/2;
+            Boolean repetido = false;
+            int indice = 0;
+            while (!repetido)
+            {
+                while (izq <= der)
+                {
+                    if (misNumeros[mitad] < misNumeros[indice])
+                    {
+                        izq = mitad + 1;
+                    } else if (misNumeros[mitad] == misNumeros[indice])
+                    {
+                        MessageBox.Show("No se pueden repetir números");
+                        repetido = true;
+                        break;
+                    }
+                    else
+                    {
+                        der = mitad - 1;
+                    }
+
+                    mitad = (izq + der) / 2;
+                }
+                indice++;
+            }
+
             //Llenamos un array con numeros aleatorios hasta el 50 sin repeticiones
             for(int i = 0; i < numGanadores.Length; i++)
             {
